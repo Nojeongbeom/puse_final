@@ -1,0 +1,6 @@
+파워쉘에
+git pull origin master 입력 --> 불러오기
+
+git add .
+git commit -m"커밋할 메시지"
+git push origin master --> 3개 순차적으로 입력하여 코드 올리기
